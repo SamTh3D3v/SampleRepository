@@ -11,7 +11,7 @@ namespace SampleSourceControlProject
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Second Commit");
+           Console.WriteLine("Third Commit");
             Console.ReadLine();
         }
     }
